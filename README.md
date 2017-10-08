@@ -11,4 +11,4 @@
 ![](code.png)
 
 ## The Python code
-![](python code.png)
+![](python.png)
