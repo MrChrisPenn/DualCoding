@@ -1,4 +1,5 @@
-# Traffic lights with EduBlocks
+# 1, 2, 3 Coding: Minecraft: Hello Steve
+![](123cc2.png)
 
 ## Connect the LEDs
 
