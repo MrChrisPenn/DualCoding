@@ -55,11 +55,11 @@ curl -sSL get.edublocks.org | bash
 2. Click new file.
 3. Type in the following code.
 ```
-From mcpi.minecraft import Minecraft
+from mcpi.minecraft import Minecraft
 
-From mcpi mport block
+from mcpi import block
 
-Mc = Minecraft.create()
+mc = Minecraft.create()
 
 mc.postToChat(“Hello Steve!”)
 
