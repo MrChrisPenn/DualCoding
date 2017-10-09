@@ -13,11 +13,17 @@ Step 3: Learn how to create the same mod with text based code with Python 3.
 
 ## Installing EduBlocks
 1. Click on terminal
-2. Ensure taht you have an internet connection and type in the following code
+2. Ensure that you have an internet connection and type in the following code
 
-'curl -sSL get.edublocks.org | bash'
+```bash
+curl -sSL get.edublocks.org | bash
+```
+3. When promted by the installer, press enter to select YES to install.
+4. The installer will now run for a few minutes. This depends on your internet speeds.
+5. You will now be able to see EduBlocks in the Raspberry Pi >> Programming menu. Click on the EduBlocks link to run the program.
+6. After around half a minute, you should be able to see the EduBlocks workspace.
 
-## Getting started 
+## Getting started with the code
 
 1. Open EduBlocks from the Desktop icon.
 2. Click on the Minecraft coding tab on the left handside
