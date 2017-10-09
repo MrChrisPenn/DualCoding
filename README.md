@@ -51,11 +51,9 @@ curl -sSL get.edublocks.org | bash
 ![](code.png)
 
 ## The Python code
-
-![](python.png)
-
-If you would rather mannually install EduBlocks instead of running our curl command. Here is the commands to do it:
-
+1. Click on the menu > programming > Python 3.
+2. Click new file.
+3. Type in the following code.
 ```
 From mcpi.minecraft import Minecraft
 
@@ -66,3 +64,12 @@ Mc = Minecraft.create()
 mc.postToChat(“Hello Steve!”)
 
 ```
+4. Save the file.
+5. Call it "Hello_Steve.py"
+6. Open Minecraft by clicking menu > games > Minecraft. 
+7. Click on create new world.
+6. Minimise Minecraft and open idle again,then press f5 to run the code.
+7. If you click back onto the Minecraft world your message should appear like below:
+
+## In action![]
+(Minecraft.png)
