@@ -3,13 +3,19 @@
 
 ## Why 1,2,3?
 
-+This is the first example of 1, 2, 3 coding cards. EduBlocks allows you to simply create Python code in a drag and drop environment. In this first exercise we will use Python to send a message to in game chat window. We will then create the exact same mod using Python 3 whuch is a text based programming language. 
++This is the first example of 1, 2, 3 coding cards. EduBlocks enables you to simply create Python code in a drag and drop environment. In this first exercise we will use Python to send a message to the in game chat window. We will then create the exact same mod using Python 3 which is a text based programming language. 
 
 Step 1: Grab a Pi.
 
 Step 2: Master visual coding with EduBlocks.
 
 Step 3: Learn how to create the same mod with text based code with Python 3.
+
+## Installing EduBlocks
+1. Click on terminal
+2. Ensure taht you have an internet connection and type in the following code
+
+'curl -sSL get.edublocks.org | bash'
 
 ## Getting started 
 
@@ -35,7 +41,7 @@ Step 3: Learn how to create the same mod with text based code with Python 3.
 ## In action
 ![](Minecraft.png)
 ## The EduBocks code
-10. Here is what the full code looks like.  
+
 ![](code.png)
 
 ## The Python code
