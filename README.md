@@ -53,3 +53,16 @@ curl -sSL get.edublocks.org | bash
 ## The Python code
 
 ![](python.png)
+
+If you would rather mannually install EduBlocks instead of running our curl command. Here is the commands to do it:
+
+```
+From mcpi.minecraft import Minecraft
+
+From mcpi mport block
+
+Mc = Minecraft.create()
+
+mc.postToChat(“Hello Steve!”)
+
+```
