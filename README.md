@@ -71,5 +71,5 @@ mc.postToChat(“Hello Steve!”)
 6. Minimise Minecraft and open idle again,then press f5 to run the code.
 7. If you click back onto the Minecraft world your message should appear like below:
 
-## In action![]
-(Minecraft.png)
+## In action
+![](Minecraft.png)
